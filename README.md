@@ -75,7 +75,7 @@ Entropy: 104.87 bits
 ## 📁 Project Structure
 
 Password_Strength_Tester_Pro/
-
+├
 ├── password_strength_tester.py
 ├── README.md
 ├── requirements.txt
