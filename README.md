@@ -73,20 +73,19 @@ Entropy: 104.87 bits
 ---
 
 ## 📁 Project Structure
-
+```text
 Password_Strength_Tester_Pro/
-├
+│
 ├── password_strength_tester.py
 ├── README.md
 ├── requirements.txt
 ├── Password_Strength_Tester_Pro_Report.pdf
-├── screenshots/
-│   ├── 01_Home_Screen.png
-│   ├── 02_Very_Weak_Password.png
-│   ├── 03_Strong_Password.png
-│   └── 04_Very_Strong_Generated.png
-
----
+└── screenshots/
+    ├── 01_Home_Screen.png
+    ├── 02_Very_Weak_Password.png
+    ├── 03_Strong_Password.png
+    └── 04_Very_Strong_Generated.png
+```
 
 ## 📸 Screenshots
 
